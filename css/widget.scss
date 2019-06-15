@@ -1,0 +1,40 @@
+.widget {
+  &.EPP-Widget {
+    width: 100%;
+    max-width: 100%;
+    .post-wrap {
+      display: block;
+      .image-column {
+        display: block;
+        float: left;
+        .thumbnail-link {
+          display: block;
+          width: 100%;
+          text-decoration: none !important;
+          -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+          img {
+            -webkit-box-shadow: none;
+            box-shadow: none;
+            object-fit: cover;
+          }
+        }
+      }
+      .text-column {
+        display: block;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        .post-title {
+          display: block;
+          -ms-word-wrap: break-word;
+          word-wrap: break-word;
+        }
+        .post-excerpt {
+          font-size: 0.8em;
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+}
