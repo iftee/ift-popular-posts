@@ -7,7 +7,7 @@
 - Option to limit number of popular posts to show
 - Option to show/hide post date
 - Option to select default thumbnail images for post that do not have featured images
-- Option to choose thumbnail width and height _(currently 150px x 150px is maximum, I don't why you'd want larger than that)_
+- Option to choose thumbnail width and height _(currently 150px x 150px is maximum, I don't know why you'd want larger than that)_
 - Option to limit post title length by number of words
 - Option to show/hide post excerpt
 - Option to limit post excerpt length by number of words
