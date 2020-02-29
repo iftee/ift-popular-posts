@@ -1,4 +1,5 @@
 # WordPress Easy Popular Posts List Plugin
+A WordPress plugin to provide a configurable widget for displaying popular posts list.
 
 ## Features
 - No coding required = Win :sunglasses:
