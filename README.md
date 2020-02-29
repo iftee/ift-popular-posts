@@ -1,5 +1,4 @@
 # WordPress Easy Popular Posts List Plugin
-![GPL license](https://img.shields.io/static/v1?style=for-the-badge&label=License&labelColor=555&message=GPL%202&color=0d7ebf&link=http://perso.crans.org/besson/LICENSE.html) ![Built with PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=PHP&logoColor=white&label=BUILT%20WITH&labelColor=777BB4&message=PHP&color=555&link=https://www.php.net) ![Built with SASS](https://img.shields.io/static/v1?style=for-the-badge&logo=Sass&logoColor=white&label=BUILT%20WITH&labelColor=CC6699&message=SASS&color=555&link=https://sass-lang.com) ![Powered by WordPress](https://img.shields.io/static/v1?style=for-the-badge&logo=WordPress&logoColor=white&label=POWERED%20BY&labelColor=21759B&message=WORDPRESS&color=555&link=https://wordpress.org) ![Code on GitHub](https://img.shields.io/static/v1?style=for-the-badge&logo=GitHub&logoColor=white&label=CODE%20ON&labelColor=181717&message=GITHUB&color=555&link=https://github.com/iftee/ift-popular-posts)
 
 ## Features
 - No coding required = Win :sunglasses:
